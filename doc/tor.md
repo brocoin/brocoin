@@ -1,4 +1,4 @@
-TOR SUPPORT IN LITECOIN
+TOR SUPPORT IN BROCOIN
 ======================
 
 It is possible to run Brocoin as a Tor hidden service, and connect to such services.
